@@ -12,4 +12,5 @@
 - **Dataset Name**: Global Superstore Dataset
 - **Columns**: Order Date, Ship Date, Segment, Country, Region, Category, Sub-Category, Sales, Profit, Quantity, Discount, etc.
 - <a href="https://github.com/mitakshra/Global-Super-Store-Analysis/blob/main/global_superstore_2016.xlsx">Download the dataset</a>
-
+# Dashboard
+- The dashboard can be seen <a href="https://github.com/mitakshra/Global-Super-Store-Analysis/blob/main/Screenshot%20(811).png">here</a>
